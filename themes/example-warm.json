@@ -1,0 +1,19 @@
+{
+  "name": "example-warm",
+  "wordmark": "fieldnotes",
+  "steps": null,
+  "colors": {
+    "bg": "#f7f4ef", "frame": "#e8e2d8", "card": "#ffffff",
+    "ink": "#26211c", "gray": "#4f4740", "muted": "#857b70", "line": "#e6dfd5",
+    "subtle": "#eee8df", "track": "#f3eee7",
+    "accent": "#b4532a", "accent_edge": "#8c3d1d", "accent_soft": "#f5e0d4",
+    "accent_tint": "#fbf2ec", "accent_on_dark": "#d98a65",
+    "dark": "#2b2520", "dark_text": "#d1c8bd", "done": "#4b8a5c"
+  },
+  "fonts": {
+    "sans": "Geist",
+    "sans_files": {"400": "Geist-400.ttf", "500": "Geist-500.ttf", "600": "Geist-600.ttf", "700": "Geist-700.ttf"},
+    "serif": "Instrument Serif",
+    "serif_file": "InstrumentSerif-Italic.ttf"
+  }
+}

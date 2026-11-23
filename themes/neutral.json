@@ -1,0 +1,19 @@
+{
+  "name": "neutral",
+  "wordmark": "deck",
+  "steps": null,
+  "colors": {
+    "bg": "#f6f6f5", "frame": "#e6e6e4", "card": "#ffffff",
+    "ink": "#1c1e21", "gray": "#4a4d52", "muted": "#7a7d82", "line": "#e1e2e3",
+    "subtle": "#eceded", "track": "#f2f3f3",
+    "accent": "#2f56c8", "accent_edge": "#1f3f9e", "accent_soft": "#dfe6fa",
+    "accent_tint": "#f2f5fd", "accent_on_dark": "#86a2f0",
+    "dark": "#1c1e21", "dark_text": "#c9cbce", "done": "#2f9e5b"
+  },
+  "fonts": {
+    "sans": "Geist",
+    "sans_files": {"400": "Geist-400.ttf", "500": "Geist-500.ttf", "600": "Geist-600.ttf", "700": "Geist-700.ttf"},
+    "serif": "Instrument Serif",
+    "serif_file": "InstrumentSerif-Italic.ttf"
+  }
+}
